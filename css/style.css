@@ -96,7 +96,7 @@ span.dropcap4,
 .header-advert,
 .v-icon-character,
 .v-fancy-heading h1 {
-    font-family: "Avenir", Arial, Helvetica, Tahoma, sans-serif;
+    font-family: "Avenir";
 }
 
 h6,
@@ -108,7 +108,7 @@ table.v-table th,
 .v-pagination li span.current,
 .twitter-link a,
 .comment-meta .comment-author {
-    font-family: "Avenir", Arial, Helvetica, Tahoma, sans-serif;
+    font-family: "Avenir";
     letter-spacing: 1.5px;
     font-weight: normal !important;
 }
@@ -249,7 +249,7 @@ label {
     font-weight: normal;
     font-size: 13px;
     line-height: 22px;
-    font-family: 'Open Sans';
+    font-family: "Avenir";
 }
 
 a {
@@ -320,7 +320,7 @@ h6 {
 }
 
 h6.special {
-    font-family: source_sans_probold,Arial,Helvetica,Tahoma,sans-serif;
+    font-family: "Avenir";
     font-weight: 400 !important;
     font-size: 14px;
     letter-spacing: 1px;
@@ -2441,7 +2441,7 @@ h4.v-line-heading:before {
 }
 
 .sidebar .widget-heading h4 {
-    font-family: source_sans_probold,Arial,Helvetica,Tahoma,sans-serif;
+    font-family: 'Avenir';
     letter-spacing: 1.1px;
     font-weight: 400!important;
     font-size: 13px;
@@ -2509,7 +2509,7 @@ h4.v-line-heading:before {
 .sidebar .v-meta-data-widget ul > li a,
 .sidebar .v-recent-entry-widget ul > li {
     color: #0F61B0;
-    font-family: 'Open Sans';
+    font-family: "Avenir";
     border-bottom: 1px solid #EBEBEB;
     font-size: 13px;
 }
@@ -2810,7 +2810,7 @@ h4.v-line-heading:before {
     background-position: center center;
     background-color: #333333;
     color: white;
-    font-family: 'Open Sans';
+    font-family: "Avenir";
 }
 
 .widget .wp-tag-cloud li > a:hover {
@@ -3027,7 +3027,7 @@ footer .widget hr {
 }
 
 footer h4 {
-    font-family: source_sans_probold,Arial,Helvetica,Tahoma,sans-serif;
+    font-family: "Avenir";
     letter-spacing: 1.8px;
     font-weight: 400!important;
     margin-top: 0;
@@ -3362,14 +3362,14 @@ p.v-smash-text-large {
 p.v-smash-text-large-2x {
     font-size: 30px !important;
     line-height: 45px;
-    font-family: Avenir;
+    font-family: "Avenir";
     
 }
 
 p.v-smash-text-s-2x {
     font-size: 15px !important;
     line-height: 0px;
-    font-family: Avenir;
+    font-family: "Avenir";
     text-align: center;
 }
 
@@ -3744,7 +3744,7 @@ figure.lightbox {
 
 .comment-content .comment-body p {
     margin-bottom: 10px;
-    font-family: 'Open Sans';
+    font-family: "Avenir";
     color: #0F61B0;
     font-size: 14px; 
 }
@@ -3915,7 +3915,7 @@ figure.lightbox {
 
 .panel-title {
     font-size: 14px;
-    font-family: 'Open Sans',Arial,Helvetica,sans-serif !important;
+    font-family: "Avenir" !important;
     color: #555 !important;
 }
 
@@ -4052,7 +4052,7 @@ figure.lightbox {
     font-weight: 500;
     letter-spacing: -5px;
     line-height: 160px;
-    font-family: 'Open Sans' !important;
+    font-family: "Avenir" !important;
 }
 
 .v-page-not-found-wrap h1.v-error {
@@ -4144,7 +4144,7 @@ img.media-object {
 }
 
 .media-heading {
-    font-family: "source_sans_probold", Arial, Helvetica, Tahoma, sans-serif;
+    font-family: "Avenir";
     font-weight: normal!important;
     font-size: 13px;
     color: #555;
@@ -4157,11 +4157,11 @@ img.media-object {
     margin-right: 5px;
     font-size: 12px;
     color: #999;
-    font-family: 'Open Sans';
+    font-family: "Avenir";
 }
 
 .media-body .reply-link {
-    font-family: 'Open Sans';
+    font-family: "Avenir";
     font-size: 12px;
     font-weight: normal;
     color: #333333;
@@ -4183,7 +4183,7 @@ img.media-object {
     box-shadow: none;
     padding: 9px 12px;
     padding-bottom: 10px;
-    font-family: 'Open Sans';
+    font-family: "Avenir";
     text-transform: none;
     border-top-right-radius: 3px;
     border-bottom-right-radius: 3px;
@@ -4257,7 +4257,6 @@ input[type=text],
 textarea {
     width: 100%;
     border: solid 1px #C4C4C4;
-    
     background-color: rgba(0,0,0,.03) !important;
     -moz-border-radius: 1px;
     -webkit-border-radius: 1px;
