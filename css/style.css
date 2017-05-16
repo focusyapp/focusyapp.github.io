@@ -4256,10 +4256,8 @@ input[type=tel],
 input[type=text],
 textarea {
     width: 100%;
-    border: solid 1px #e3e3e3;
-    border-bottom-color: #F0F0F0;
-    border-top-color: #e0e0e0;
-    color: #777;
+    border: solid 1px #C4C4C4;
+    
     background-color: rgba(0,0,0,.03) !important;
     -moz-border-radius: 1px;
     -webkit-border-radius: 1px;
@@ -4270,10 +4268,6 @@ textarea {
     -o-transition: all .2s linear;
     transition: all .2s linear;
     outline: none !important;
-    -moz-box-shadow: 0 1px 2px rgba(10,10,10,.1)inset;
-    -webkit-box-shadow: 0 1px 2px rgba(10,10,0,.1)inset;
-    -o-box-shadow: 0 1px 2px rgba(10,10,10,.1)inset;
-    box-shadow: 0 1px 2px rgba(10,10,10,.1)inset;
     -webkit-backface-visibility: hidden;
     -moz-backface-visibility: hidden;
     backface-visibility: hidden;

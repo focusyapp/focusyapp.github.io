@@ -1139,8 +1139,8 @@ button.btn:not(.v-btn.v-second-dark):not(.v-btn.v-third-dark) {
 }
 
 .v-btn.v-belize-hole {
-    background: rgba(41,128,185,.8);
-    box-shadow: 0 3px 0 0 rgba(21,108,165,.9)
+    background: #FFFFFF;
+    border: solid 2px #4A4A4A;
 }
 
 .btn.v-btn.v-belize-hole.special-icon i::after,.btn.v-btn.v-belize-hole.special-icon i {
@@ -1148,7 +1148,7 @@ button.btn:not(.v-btn.v-second-dark):not(.v-btn.v-third-dark) {
 }
 
 .v-btn.v-belize-hole:hover {
-    background: rgba(41,128,185,1);
+    background: #4A4A4A;
     box-shadow: 0 3px 0 0 rgba(21,108,165,1)
 }
 
