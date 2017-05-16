@@ -910,15 +910,16 @@
     text-align: center;
     cursor: pointer;
     zoom: 1;
-    -webkit-border-radius: 1px;
-    -moz-border-radius: 1px;
-    border-radius: 1px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
     font-family: Avenir;
-    font-size: 13px;
+    font-weight: 500;
+    font-size: 15px;
     line-height: 1.3;
     letter-spacing: 0.5px;
-    color: #eee;
-    color: rgba(255,255,255,1)!important;
+    color: #323436;
+    color: #323436;
     box-shadow: 0 3px 0 0 #22A7D1;
     padding: 15px 20px 13px
 }
